@@ -1,7 +1,7 @@
-# Python Group-Chat Application with Client-Server Architecture
+# Group-Chat Application with Client-Server Architecture
 
 ## Introduction
-A Python chat application implemented with a Client-Server architecture, supporting [features](#features) like user authentication, dynamic room creation and management, and file transfers.
+A Python group chat application implemented with a Client-Server architecture, supporting [features](#features) like user authentication, dynamic room creation and management, and file transfers.
 
 Developed as a final project in "Computer Networks and Internet" course, Bar-Ilan University,
 This project demonstrates practical applications of network protocols and socket programming.
