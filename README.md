@@ -30,6 +30,9 @@ The Client offers options for user authentication, room management, and file tra
 - Rate Limiting for Message Sending (To prevent abuse)
 - File Transfer within Rooms
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contribution
 Contributions are welcome. Please fork the repository and submit a pull request with your changes.
 
